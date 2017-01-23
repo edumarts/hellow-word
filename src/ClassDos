@@ -1,5 +1,5 @@
 public Class ClassDos {
 	
-
+	String otro = "Otro";
 
 }
