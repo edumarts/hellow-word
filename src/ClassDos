@@ -2,4 +2,8 @@ public Class ClassDos {
 	
 	String otro = "Otro";
 
+	public static void main(string[] args){
+		int tiempo = 5;
+	}
+
 }

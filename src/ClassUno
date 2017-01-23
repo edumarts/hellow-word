@@ -2,6 +2,7 @@ public Class ClassUno {
 	
 	public static void main(string[] args){
 		String algo = "algo";
+		int counter = 1;
 	
 	}
 }
