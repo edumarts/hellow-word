@@ -1,5 +1,7 @@
 public Class ClassUno {
 	
-	String algo = "algo";
-
+	public static void main(string[] args){
+		String algo = "algo";
+	
+	}
 }
