@@ -1,5 +1,10 @@
 public Class ClassDos {
 	
 	String otro = "Otro";
+	int timer = 5;
+
+	public void setTime(){
+		time = time;
+	}
 
 }
